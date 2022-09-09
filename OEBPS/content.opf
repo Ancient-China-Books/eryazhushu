@@ -55,7 +55,6 @@
     <item id="page_css" href="Styles/page_styles.css" media-type="text/css"/>
     <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
     <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
-    <item id="biaodian" href="Fonts/biaodian.otf" media-type="application/vnd.ms-opentype"/>
     <item id="fsung-2" href="Fonts/FSung-2.ttf" media-type="application/x-font-truetype"/>
     <item id="fsung-f" href="Fonts/FSung-F.ttf" media-type="application/x-font-truetype"/>
     <item id="noto-sc" href="Fonts/NotoSerifSC-Medium.otf" media-type="application/vnd.ms-opentype"/>
