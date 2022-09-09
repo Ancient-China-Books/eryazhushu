@@ -6,6 +6,7 @@ html {
 }
 body {
   font-family: "Noto Serif SC Medium", FSung-2, fSung-F, serif;
+  letter-spacing: 1px;
   font-size: 110%;
   line-height: 1.7;
   line-break: auto;
@@ -73,6 +74,7 @@ span.yinwen {
 }
 h1 {
   font-size: x-large;
+  letter-spacing: 3px;
   margin: 0;
   padding: 0;
 }
@@ -133,6 +135,7 @@ hr {
 }
 h2 {
   font-size: large;
+  letter-spacing: 3px;
   margin: 0;
   padding: 0;
 }
