@@ -1,27 +1,27 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0"  encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uURZtGspwZoK7paK7ZhCfl9">
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:title>爾雅注疏</dc:title>
-    <dc:creator opf:role="aut" opf:file-as="晉·郭璞 注 &amp; 北宋·邢昺 疏">晉·郭璞 注</dc:creator>
-    <dc:creator opf:role="aut">北宋·邢昺 疏</dc:creator>
-    <dc:contributor opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:creator opf:role="aut" opf:file-as="晉·郭璞 &amp; 北宋·邢昺">晉·郭璞</dc:creator>
+    <dc:creator opf:role="aut">北宋·邢昺</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (6.4.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:identifier id="uEZ9xprrjv63XbqvdnwmL78" opf:scheme="uuid">uEZ9xprrjv63XbqvdnwmL78</dc:identifier>
     <dc:date>0101-01-01T00:00:00+00:00</dc:date>
     <dc:description>&lt;div&gt;
 &lt;p&gt;古來相傳周公所撰，或謂孔子門徒解釋六藝之作。蓋係秦漢間經師綴輯舊文，遞相增益而成，不出於一時一手。漢書藝文志著錄二十篇。今本三卷，十九篇。有漢犍爲文學、樊光、李巡、三國魏孫炎、晉郭璞注，今唯行郭璞注。前三篇釋詁釋言釋訓解釋語辭，後十六篇專門解釋名物術語。清代有邵晉涵爾雅正義，郝懿行爾雅義疏，各二十卷。&lt;/p&gt;
 &lt;p&gt;基於「東里書齋」重製電子版。&lt;/p&gt;&lt;/div&gt;</dc:description>
     <dc:date opf:event="modification">2022-06-10</dc:date>
+    <dc:identifier id="uURZtGspwZoK7paK7ZhCfl9" opf:scheme="uuid">uURZtGspwZoK7paK7ZhCfl9</dc:identifier>
     <dc:subject>古籍</dc:subject>
     <dc:subject>經部</dc:subject>
     <dc:subject>十三經註疏</dc:subject>
     <dc:subject>爾雅注疏</dc:subject>
     <dc:language>zh-TW</dc:language>
-    <dc:identifier opf:scheme="calibre">31ec0cc2-07b3-4d30-b0fb-828ede348dde</dc:identifier>
-    <dc:identifier id="uURZtGspwZoK7paK7ZhCfl9" opf:scheme="uuid">uURZtGspwZoK7paK7ZhCfl9</dc:identifier>
+    <dc:identifier opf:scheme="calibre">9dfc92d1-8db4-46d3-b9d5-b6130815ab3c</dc:identifier>
     <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
     <meta content="爾雅注疏" name="calibre:title_sort"/>
     <meta content="horizontal-lr" name="primary-writing-mode"/>
-    <meta content="{&quot;晉·郭璞 注&quot;: &quot;&quot;, &quot;北宋·邢昺 疏&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="{&quot;晉·郭璞&quot;: &quot;&quot;, &quot;北宋·邢昺&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
     <meta content="十三經注疏" name="calibre:series"/>
     <meta content="1.0" name="calibre:series_index"/>
     <meta content="10.0" name="calibre:rating"/>
