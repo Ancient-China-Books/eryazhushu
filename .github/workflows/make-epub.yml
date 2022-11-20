@@ -43,17 +43,17 @@ jobs:
          RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
         with:
           args: copyto eryazhushu-vst.epub gdrive:/古籍共享电子书计划/爾雅注疏-豎排.epub
-      - name: Sync to Freemdict
+      - name: Sync to Onedrive
         uses: wei/rclone@v1
         env:
          RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
          RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
         with:
-          args: copyto eryazhushu.epub freemdict:/古籍共享电子书计划/爾雅注疏.epub
-      - name: Sync vst to Freemdict
+          args: copyto eryazhushu.epub onedrive:/古籍共享电子书计划/爾雅注疏.epub
+      - name: Sync vst to Onedrive
         uses: wei/rclone@v1
         env:
          RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
          RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
         with:
-          args: copyto eryazhushu-vst.epub freemdict:/古籍共享电子书计划/爾雅注疏-豎排.epub
+          args: copyto eryazhushu-vst.epub onedrive:/古籍共享电子书计划/爾雅注疏-豎排.epub
